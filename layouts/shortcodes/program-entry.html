@@ -1,0 +1,6 @@
+{{ if .IsNamedParams }}
+<div class="program-entry">
+    <div class="text">{{ .Get "hour" }}</div>
+    <div class="description">{{ .Get "description" }}</div>
+</div>
+{{ end }}

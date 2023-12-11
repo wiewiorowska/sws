@@ -1,0 +1,18 @@
+{{ $siteTitle := .Site.Title }}
+{{ $logos := .Site.Params.sponsors_logos }}
+{{ with $logos }}
+    {{ $validLogos := slice }}
+    {{ range $key, $value := . }}
+        {{ if $value }}
+            {{ $validLogos = $validLogos | append (dict "key" $key "value" $value) }}
+        {{ end }}
+    {{ end }}
+
+    {{ if gt (len $validLogos) 0 }}
+    <div class="logos">
+        {{ range $validLogos }}
+            <img class="logo" src="{{ .value }}">
+        {{ end }}
+    </div>
+    {{ end }}
+{{ end }}

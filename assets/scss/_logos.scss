@@ -1,0 +1,18 @@
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+     
+    .logo {
+        max-height: 80px;
+        margin: 10px;
+
+        @media screen and (min-width: $min-desktop) {
+            max-height: 140px;
+            margin: 20px;   
+        }
+        @media screen and (min-width: $min-desktop) {
+            max-height: 140px;
+            margin: 30px;   
+        }
+    }
+}

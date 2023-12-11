@@ -1,0 +1,16 @@
+.program-entry {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    width: 100%;
+    gap: 50px;
+    margin-bottom: 10px;
+    background: var(--white);
+
+    .text {
+        font-weight: 800;
+        flex: 1 5 auto;
+    }
+    
+}

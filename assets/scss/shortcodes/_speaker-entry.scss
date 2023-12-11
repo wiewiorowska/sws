@@ -1,0 +1,24 @@
+.speaker-entry {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+    width: 100%;
+    gap: 20px;
+    margin-bottom: 10px;
+    background: var(--white);
+
+    @media screen and (min-width: $min-desktop) {
+        flex-direction: row;
+        gap: 50px;
+    }
+
+    .image {
+        border-radius: 50%;
+        height: 200px;
+        width: 200px;
+    }
+
+    
+}

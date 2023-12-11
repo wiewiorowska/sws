@@ -1,0 +1,50 @@
+<footer class="footer">
+    <div class="container wrap">
+
+        <div class="footer__logo-social-wrapper">
+            {{- partial "logos.html" . -}}
+
+        </div>
+
+        <hr class="footer-hr">
+
+        <div class="copyright">
+            <p>{{ .Site.Copyright | default "Copyright &copy; {{< current_year >}} All Rights Reserved. Cenrum Ochrony Mokradeł" | markdownify }}</p>
+
+            <div class="copyright__accessibility-git-wrapper">
+                {{ if .Site.Params.accessibility.help_url }}
+                <a href="{{ .Site.Params.accessibility.help_url }}" class="nowrap">{{ .Site.Params.accessibility.help_text | default
+                    "Accessibility Statement" }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</footer>
+
+{{/* Theme: Hover Intent */}}
+{{ $js := resources.Get "js/hoverintent.min.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+
+{{/* Theme: FAQ */}}
+{{ if and (eq .Type "faq") (eq .Kind "section") }}
+{{ $js := resources.Get "js/accordion.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* Theme: Scripts */}}
+{{ $js := resources.Get "js/scripts.js" }}
+{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ $js = $js | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{ else }}
+<script defer src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* Shortcode: YouTube Enhanced */}}
+{{ if .HasShortcode "youtube_enhanced" }}
+{{ $js := resources.Get "js/youtube-lite.js" | resources.Minify }}
+<script type="module" src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* User: Custom JS */}}
+{{- partial "footer/custom-js.html" . }}
