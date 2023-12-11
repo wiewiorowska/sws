@@ -4,7 +4,7 @@
 {{ if eq $image_position "left" }}
 <div class="text-image-row">
     <div class="image">
-        <img src="{{$image}}"/>
+        <img src="{{ $image | relURL }}"/>
     </div>
     <div class="text">{{ .Inner }}</div>
 </div>
@@ -12,7 +12,7 @@
 <div class="text-image-row">
     <div class="text">{{ .Inner }}</div>
     <div class="image">
-        <img src="{{$image}}"/>
+        <img src="{{ $image | relURL }}"/>
     </div>
 </div>
 {{ end }}

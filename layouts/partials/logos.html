@@ -11,7 +11,7 @@
     {{ if gt (len $validLogos) 0 }}
     <div class="logos">
         {{ range $validLogos }}
-            <img class="logo" src="{{ .value | absURL }}">
+            <img class="logo" src="{{ .value | relURL }}">
         {{ end }}
     </div>
     {{ end }}

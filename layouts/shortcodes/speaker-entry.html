@@ -1,6 +1,6 @@
 {{ if .IsNamedParams }}
 <div class="speaker-entry">
-    <img src='{{ .Get "image" }}' class="image"/> 
+    <img src='{{ .Get "image" | relURL }}' class="image"/> 
     <div class="description">{{ .Get "description" }}</div>
 </div>
 {{ end }}
