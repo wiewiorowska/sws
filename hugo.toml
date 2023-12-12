@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://wiewiorowska.github.io/sws/"
 languageCode = 'en-us'
 title = 'SWS Conference'
 theme = 'dot-org-hugo-theme'
