@@ -5,3 +5,4 @@ googleAnalytics:
 enableRobotsTXT: true
 build:
   writeStats: true
+canonifyURLs: true
