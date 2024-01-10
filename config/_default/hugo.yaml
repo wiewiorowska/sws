@@ -31,21 +31,10 @@ menu:
     weight: 10
   - name: Call for abstracts
     pageRef: /register
-    weight: 30
-  - name: Venue
-    identifier: venue
-    weight: 30
-  - name: How to get there
-    pageRef: /how
-    parent: venue
     weight: 20
-  - name: About
-    pageRef: /venue
-    parent: venue
-    weight: 10
   - name: Conference
     identifier: conference
-    weight: 20
+    weight: 30
   - name: Programme Overview
     pageRef: /agenda
     weight: 10
