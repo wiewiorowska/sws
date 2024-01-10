@@ -46,11 +46,23 @@ menu:
   - name: Conference
     identifier: conference
     weight: 20
-  - name: Programme
+  - name: Programme Overview
     pageRef: /agenda
     weight: 10
     parent: conference
-  - name: Speakers
+  - name: Keynote Speakers
     pageRef: /speakers
     weight: 20
+    parent: conference
+  - name: Scientific committee
+    pageRef: /scientific-comittee
+    weight: 30
+    parent: conference
+  - name: Organising committee
+    pageRef: /organising-comittee
+    weight: 40
+    parent: conference
+  - name: Costs
+    pageRef: /costs
+    weight: 50
     parent: conference
