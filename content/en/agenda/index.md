@@ -1,8 +1,6 @@
 ---
 title: "Programme overview"
 image: '/images/example.jpg'
-menu:
-    main
 type: page
 ---
 **23th June:**\
