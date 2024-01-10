@@ -1,8 +1,6 @@
 ---
 title: "Call for abstracts"
 image: '/images/example.jpg'
-menu:
-    main
 type: page
 ---
 You can submit abstracts for sessions and/or posters (format max. A0). We welcome abstracts from all related disciplines and areas of expertise from all practitioners (academics, consultants and government). The meeting allows wetland scientists and related interests to exchange information and knowledge.
