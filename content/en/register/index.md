@@ -14,5 +14,6 @@ The submission system for abstracts will be opened soon.
 **ABSTRACT/POSTER SUBMISSION DEADLINE: March 15th, 2024**
 
 Presenters will be notified about acceptance via email up to two weeks after the deadline.
+
 SWS will provide a prize for the best young scientist presentation and poster. 
 
