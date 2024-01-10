@@ -2,7 +2,7 @@
 # Your theme name
 theme: "dot-org-hugo-theme"
 # Title of your website (required).
-title: "19TH SWS EUROPE CHAPTER CONFERENCE"
+title: "19th SWS Europe Chapter Conference"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone: "America/Los_Angeles"
 
