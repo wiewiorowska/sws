@@ -1,25 +1,28 @@
 ---
-title: "Programme"
+title: "Programme overview"
 image: '/images/example.jpg'
 menu:
     main
 type: page
 ---
+**23th June:**\
+Welcome, dinner (within one’s budget), bonfire
 
-{{< program-header header="28.12.2025 ">}}
-{{< program-entry hour="12:00" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua">}}
-{{< program-entry hour="15:00" description="Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam">}}
-{{< program-entry hour="17:00" description="Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam">}}
-{{< /program-header >}}
+**24th June:**\
+Registration and welcome reception\
+Opening ceremony/Welcome speech\
+Keynote Lectures\
+Parallel sessions\ 
+Poster session
 
-{{< program-header header="28.12.2025 ">}}
-{{< program-entry hour="12:00" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua">}}
-{{< program-entry hour="15:00" description="Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam">}}
-{{< program-entry hour="17:00" description="Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam">}}
-{{< /program-header >}}
+**25th June:**\
+Introductory lecture to the Biebrza catchment wetlands\
+Field trips (trip 1 – peatlands, trip 2 – rivers, trip 3 – lakes)\
+“Wetland Party”
 
-{{< program-header header="28.12.2025 ">}}
-{{< program-entry hour="12:00" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua">}}
-{{< program-entry hour="15:00" description="Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam">}}
-{{< program-entry hour="17:00" description="Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam">}}
-{{< /program-header >}}
+**26th June:**\
+Keynote Lectures
+Parallel sessions 
+Closing ceremony (15.30 CEST)
+
+This 19th Society Wetland Scientists Europe Chapter Meeting will be organised in Goniądz (Poland), in the heart of Biebrza Marshes, where Bartlowizna Conference and Leisure Centre will host us.
