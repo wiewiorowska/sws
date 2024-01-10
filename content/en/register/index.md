@@ -1,10 +1,18 @@
 ---
-title: "Register"
+title: "CALL FOR ABSTRACTS"
 image: '/images/example.jpg'
 menu:
     main
 type: page
 ---
-[Register here ](https://forms.google.com)
+You can submit abstracts for sessions and/or posters (format max. A0). We welcome abstracts from all related disciplines and areas of expertise from all practitioners (academics, consultants and government). The meeting allows wetland scientists and related interests to exchange information and knowledge.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae elementum curabitur vitae nunc sed velit. Egestas dui id ornare arcu odio ut sem nulla pharetra. Ligula ullamcorper malesuada proin libero nunc. Tortor at risus viverra adipiscing at in tellus integer. Cras fermentum odio eu feugiat pretium nibh. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Cursus sit amet dictum sit amet. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Scelerisque felis imperdiet proin fermentum leo. At elementum eu facilisis sed odio. Massa eget egestas purus viverra accumsan in. Posuere morbi leo urna molestie at. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium. Nibh mauris cursus mattis molestie a iaculis at erat.
+**Abstract format guidelines - see the abstract’s template [here]().** Abstracts should be submitted in an editable format. 
+
+The submission system for abstracts will be opened soon. 
+
+**ABSTRACT/POSTER SUBMISSION DEADLINE: March 15th, 2024**
+
+Presenters will be notified about acceptance via email up to two weeks after the deadline.
+SWS will provide a prize for the best young scientist presentation and poster. 
+
