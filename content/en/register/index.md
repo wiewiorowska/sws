@@ -1,5 +1,5 @@
 ---
-title: "CALL FOR ABSTRACTS"
+title: "Call for abstracts"
 image: '/images/example.jpg'
 menu:
     main
