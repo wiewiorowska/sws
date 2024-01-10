@@ -55,11 +55,11 @@ menu:
     weight: 20
     parent: conference
   - name: Scientific committee
-    pageRef: /scientific-comittee
+    pageRef: /scientific
     weight: 30
     parent: conference
   - name: Organising committee
-    pageRef: /organising-comittee
+    pageRef: /organising
     weight: 40
     parent: conference
   - name: Costs
