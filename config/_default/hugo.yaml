@@ -55,3 +55,6 @@ menu:
     pageRef: /costs
     weight: 50
     parent: conference
+  - name: Contact
+    identifier: contact
+    weight: 40
