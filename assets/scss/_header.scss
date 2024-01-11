@@ -104,6 +104,7 @@
     &__wrapper {
         margin-left: 0; // reset.
         padding-left: 0; // reset.
+        align-items: center;
         @media (max-width: $mobile-max) {
             padding-top: 10px;
         }
