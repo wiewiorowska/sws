@@ -180,6 +180,7 @@
 
     // Top row only.
     .top-menu-item {
+        text-align: center;
         @media (min-width: $min-desktop) {
             margin-right: 20px;
         }
