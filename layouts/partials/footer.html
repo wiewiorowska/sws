@@ -9,7 +9,7 @@
         <hr class="footer-hr">
 
         <div class="copyright">
-            <p>{{ .Site.Copyright | default "Copyright &copy; {{< current_year >}} All Rights Reserved. Cenrum Ochrony Mokradeł" | markdownify }}</p>
+            <p>{{ .Site.Copyright | default "Copyright &copy; {{< current_year >}} All Rights Reserved" | markdownify }}</p>
 
             <div class="copyright__accessibility-git-wrapper">
                 {{ if .Site.Params.accessibility.help_url }}
