@@ -56,5 +56,5 @@ menu:
     weight: 50
     parent: conference
   - name: Contact
-    identifier: contact
+    pageRef: /contact
     weight: 40
