@@ -11,7 +11,7 @@ type: page
 
 **dr hab. Mateusz Grygoruk**, associate professor, Warsaw University of Life Sciences 
 
-**dr Andrzej Kamocki**, assistant professor, Białystok University of Technology
+**dr Andrzej Kamocki**, assistant professor, Białystok University of Technology, member of the board at the Society for the Protection of Habitats “ProHabitat”
 
 **prof. dr hab. Piotr Banaszuk**, professor, Białystok University of Technology
 
