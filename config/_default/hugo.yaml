@@ -55,6 +55,9 @@ menu:
     pageRef: /costs
     weight: 50
     parent: conference
+  - name: About Biebrza Wetlands
+    pageRef: /biebrza
+    weight: 40
   - name: Contact
     pageRef: /contact
-    weight: 40
+    weight: 50
