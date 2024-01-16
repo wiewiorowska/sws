@@ -1,5 +1,5 @@
 ---
-title: "About Biebrza Wetlands"
+title: "Biebrza Wetlands"
 image: '/images/example.jpg'
 type: page
 ---
