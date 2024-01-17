@@ -9,5 +9,5 @@ Unfortunately, much of the peatland has been degraded as a result of hydro-engin
 
 The primary factor determining the preservation or restoration of the natural values of Biebrza River valley is the provision of appropriate water conditions. However, wetland restoration and ensuring the sustainability of wetland habitats is a huge logistical challenge.
 
-{{< img src="/images/Peat_soils_conditions.jpg" >}}
+{{< img src="/images/Peat_soils_conditions.jpg" width="500" height="300">}}
 
