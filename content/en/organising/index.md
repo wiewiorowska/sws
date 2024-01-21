@@ -3,17 +3,17 @@ title: "Organising commitee"
 image: '/images/example.jpg'
 type: page
 ---
-**dr hab. Wiktor Kotowski**, associate professor at the University of Warsaw, member of the board at the Wetlands Conservation Centre
+**Wiktor Kotowski**, associate professor at the University of Warsaw, member of the board at the Wetlands Conservation Centre
 
-**dr Matthew Simpson**, President of Europe Chapter, Society of Wetland Scientists
+**Matthew Simpson**, President of Europe Chapter, Society of Wetland Scientists
 
-**dr Łukasz Kozub**, assistant professor at the University of Warsaw, member of the board at the Wetlands Conservation Centre
+**Łukasz Kozub**, assistant professor at the University of Warsaw, member of the board at the Wetlands Conservation Centre
 
-**dr hab. Mateusz Grygoruk**, associate professor, Warsaw University of Life Sciences 
+**Mateusz Grygoruk**, associate professor, Warsaw University of Life Sciences 
 
-**dr Andrzej Kamocki**, assistant professor, Białystok University of Technology, member of the board at the Society for the Protection of Habitats “ProHabitat”
+**Andrzej Kamocki**, assistant professor, Białystok University of Technology, member of the board at the Society for the Protection of Habitats “ProHabitat”
 
-**prof. dr hab. Piotr Banaszuk**, professor, Białystok University of Technology
+**Piotr Banaszuk**, professor, Białystok University of Technology
 
 **Magdalena Galus**, director, Wetlands Conservation Centre
 

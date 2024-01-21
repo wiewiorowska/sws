@@ -2,7 +2,7 @@
 # Your theme name
 theme: "dot-org-hugo-theme"
 # Title of your website (required).
-title: "19th SWS Europe Chapter Conference"
+title: "19th SWS Europe \n Chapter Conference"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone: "America/Los_Angeles"
 
@@ -54,6 +54,10 @@ menu:
   - name: Costs
     pageRef: /costs
     weight: 50
+    parent: conference
+  - name: Venue
+    pageRef: /venue
+    weight: 60
     parent: conference
   - name: Biebrza Wetlands
     pageRef: /biebrza
