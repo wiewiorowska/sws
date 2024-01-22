@@ -1,5 +1,21 @@
 .image-header {
+    position: relative;
     width: 100%;
     max-height: 400px;
     object-fit: cover;
+}
+
+.image-header-logo {
+    position: absolute;
+    bottom: var(--gutter);
+    right: var(--gutter);
+    height: 100px;
+
+    @media (min-width: $min-desktop) {
+        height: 150px;
+    }
+}
+
+.image-container {
+    position: relative;
 }
