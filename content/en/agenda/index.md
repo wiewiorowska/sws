@@ -19,5 +19,5 @@ Wetland party
 
 **26th June:**\
 Keynote Lectures\
-Parallel sessions\ 
+Parallel sessions\
 Closing of the conference (15.30 CEST)
