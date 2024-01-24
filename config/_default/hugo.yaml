@@ -59,6 +59,10 @@ menu:
     pageRef: /venue
     weight: 60
     parent: conference
+  - name: Accomodation
+    pageRef: /accomodation
+    weight: 70
+    parent: conference
   - name: Biebrza Wetlands
     pageRef: /biebrza
     weight: 40
