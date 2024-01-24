@@ -7,7 +7,7 @@ There are 50 single rooms, double rooms, triple rooms, and studio suites availab
 where we can accommodate up to 120 people. Due to the small number of single rooms and the large number of participants, 
 the conference organizers are responsible for room allocation, and it is not possible to book a room through the hotel reception. 
 We also offer ten single and double rooms in the headquarters of the Biebrza National Park in Osowiec-Twierdza - 4 km from the conference venue.
-For accommodation, please send information to [swseurope24@bagna.pl]() with information 
+For accommodation, please send information to swseurope24@bagna.pl with information 
 about the possibility of accommodation in a double or triple room (friends, colleagues, couples, etc.).
  
 We would like to inform you that there are numerous other accommodations available 
