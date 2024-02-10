@@ -6,11 +6,11 @@
     <div class="image">
         <img src="{{ $image | relURL }}"/>
     </div>
-    <div class="text">{{ .Inner }}</div>
+    <div class="text">{{ .Inner | markdownify}}</div>
 </div>
 {{ else }}
 <div class="text-image-row">
-    <div class="text">{{ .Inner }}</div>
+    <div class="text">{{ .Inner | markdownify}}</div>
     <div class="image">
         <img src="{{ $image | relURL }}"/>
     </div>
