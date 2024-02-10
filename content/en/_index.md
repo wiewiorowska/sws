@@ -1,11 +1,11 @@
 ---
-title: 19th SWS EUROPE CHAPTER CONFERENCE
+title: 19th conference of the European chapter of the Society of Wetland Scientists
 image: '/images/example.jpg'
 type: "page"
 ---
-**Wetlands across timescales**
+## Wetlands across timescales
 
-**JUNE 24th - 26th 2024, GONIĄDZ, POLAND**
+#### JUNE 24th - 26th 2024, GONIĄDZ, POLAND
 
 Organised by the Society of Wetland Scientists - Europe Chapter, Wetlands Conservation Centre (PL), University of Warsaw, Białystok University of Technology, Warsaw University of Life Sciences, Society for the Protection of Habitats “ProHabitat” & The Biebrza National Park.
 
@@ -15,4 +15,3 @@ We invite scientists and practitioners from all fields of wetland science and en
 
 Welcome to the [Europe Chapter of the Society of Wetland Scientists](https://members.sws.org/europe-chapter). The Europe Chapter was founded to bring together wetland scientists and other European professionals who share common interests in wetland science and management
 
-{{< toc >}}

@@ -16,6 +16,17 @@
     }
 }
 
+.image-header-text {
+    position: absolute;
+    bottom: var(--gutter);
+    left: var(--gutter);
+    .h1,.h2 {
+        color:var(--primary-500);
+        margin-top: 20px;
+        font-weight: 500;
+    }
+}
+
 .image-container {
     position: relative;
 }
