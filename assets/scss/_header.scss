@@ -1,7 +1,8 @@
 .header {
     width: 100%;
     background: var(--white);
-    position: relative;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0;
     z-index: 20;
     &:after {
         content: "";

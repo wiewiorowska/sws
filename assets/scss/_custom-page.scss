@@ -6,9 +6,6 @@
 }
 
 .image-header-logo {
-    position: absolute;
-    bottom: var(--gutter);
-    right: var(--gutter);
     height: 100px;
 
     @media (min-width: $min-desktop) {
@@ -17,16 +14,34 @@
 }
 
 .image-header-text {
-    position: absolute;
-    bottom: var(--gutter);
-    left: var(--gutter);
+
     .h1,.h2 {
         color:var(--primary-500);
         margin-top: 20px;
+        margin-bottom: 0;
         font-weight: 500;
     }
 }
 
+.image-header-overlay {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+    padding-bottom: var(--gutter);
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
 .image-container {
     position: relative;
+    width: 100%;
+    margin-top: 60px;
+    @media (min-width: $min-desktop) {
+        margin-top:80px;
+    }
 }
