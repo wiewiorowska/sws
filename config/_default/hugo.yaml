@@ -32,9 +32,12 @@ menu:
   - name: Call for abstracts
     pageRef: /register
     weight: 20
+  - name: Special sessions
+    pageRef: /special-sessions
+    weight: 30
   - name: Conference
     identifier: conference
-    weight: 30
+    weight: 40
   - name: Programme Overview
     pageRef: /agenda
     weight: 10
@@ -65,7 +68,7 @@ menu:
     parent: conference
   - name: Biebrza Wetlands
     pageRef: /biebrza
-    weight: 40
+    weight: 50
   - name: Contact
     pageRef: /contact
-    weight: 50
+    weight: 60
