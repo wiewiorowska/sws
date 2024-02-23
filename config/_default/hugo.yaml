@@ -39,6 +39,10 @@ menu:
     pageRef: /dutch-polish-event
     weight: 10
     parent: events
+  - name: Wetland summer school
+    pageRef: /wetland-summer-school
+    weight: 20
+    parent: events
   - name: Conference
     identifier: conference
     weight: 40
