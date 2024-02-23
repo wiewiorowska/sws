@@ -17,3 +17,5 @@ Please note that in case of many submissions, the organising committee may sugge
 
 SWS will provide two awards for the presentation and the best poster by young scientists. 
 
+You can submit proposal for special session [here](/special-sessions).
+
