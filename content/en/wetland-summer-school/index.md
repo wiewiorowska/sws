@@ -31,6 +31,9 @@ We will launch registration soon (in the beginning of March).  You will be asked
 **Photos from the 2023 edition of the Wetland Summer School:**
 {{< load-photoswipe >}}
 {{< gallery >}}
+{{< figure src="images/wetland-summer-school/15. Paweł (Klub Przyrodników), fot. Monika Łaskawska-Wolszczak.jpg" caption="photo Monika Łaskawska-Wolszczak">}}
+{{< figure src="images/wetland-summer-school/36. Wschód słońca nad Narwią, fot. Karolina Olszanowska-Kuńka.JPG" caption="photo Karolina Olszanowska-Kuńka">}}
+{{< figure src="images/wetland-summer-school/20230710_115738.jpg" caption="photo Magdalena Suchora">}}
 {{< figure src="images/wetland-summer-school/20230713_103921.jpg" caption="photo Magdalena Suchora">}}
 {{< figure src="images/wetland-summer-school/paludella.jpg" caption="photo Monika Łaskawska-Wolszczak">}}
 {{< figure src="images/wetland-summer-school/wiktor.jpg" caption="photo Monika Łaskawska-Wolszczak">}}
