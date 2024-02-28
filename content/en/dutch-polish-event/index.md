@@ -10,3 +10,5 @@ type: page
 * Commemorative speech by prof. Martin Joseph Wassen, University of Utrecht
 * Biebrza for Science - Science for Biebrza. Panel discussion on the past, present and future of international research in the Biebrza wetlands chaired by prof. Tomasz Okruszko, Warsaw University of Life Sciences.
 * Banquet at the bank of the Biebrza river
+
+The event is open and free to all conference participants.
