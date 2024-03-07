@@ -5,9 +5,9 @@ type: page
 ---
 You can submit abstracts for oral presentations and/or posters (format max. A0). We welcome abstracts from all wetland-related disciplines and areas of expertise from both scientists and practitioners (academics, consultants and government). The meeting allows wetland scientists and related interests to exchange information and knowledge.
 
-**Abstract format guidelines - see the abstract’s template [here](/abstract.docx).** Abstracts should be submitted in an editable format. 
+**Abstract format guidelines - see the abstract’s template [here](/abstract_2024.docx).** Abstracts should be submitted in an editable format. 
 
-Abstract submission will open soon. 
+Submit your abstracts {{< link href="https://forms.gle/44RAR2JN4Zoy94Dy7" >}}here{{< /link >}}.
 
 **ABSTRACT/POSTER SUBMISSION DEADLINE: March 15th, 2024**
 
