@@ -9,7 +9,7 @@ You can submit abstracts for oral presentations and/or posters (format max. A0).
 
 Submit your abstracts {{< link href="https://forms.gle/44RAR2JN4Zoy94Dy7" >}}here{{< /link >}}.
 
-**ABSTRACT/POSTER SUBMISSION DEADLINE: March 15th, 2024**
+**EXTENDED ABSTRACT/POSTER SUBMISSION DEADLINE: March 29th, 2024**
 
 Authors will be notified about abstract acceptance by email at latest two weeks after the submission deadline.
 
