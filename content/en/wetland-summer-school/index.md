@@ -3,8 +3,7 @@ title: Wetland Summer School – a field course on ecology, conservation and res
 image: '/images/example.jpg'
 type: "page"
 ---
-## (book the date! Registration details soon - check web page for updates)
-
+## Registration is now open! Deadline for application: 10th of May 2024. You can apply {{< link href="https://docs.google.com/forms/d/e/1FAIpQLSfOXiuWPBTVttfP-J0RNtxs7PU3JMw0a1sa79l8oYVQfrAjQw/viewform?usp=sf_link" >}}HERE{{< /link >}}
 **It is a 6-day field trip, from June 27th to July 2nd, 2024, through wetland landscapes of NE Poland, with a focus on mires and peatlands.**  During the course, participants will develop and deepen their knowledge of mire ecosystems' functioning, connection to surrounding landscapes, specific biodiversity, and ecosystem services. We will visit the last well-preserved bogs and fens of various ecological and hydrogenetic types, as well as degraded peatlands, trying to identify the causes and consequences of environmental deterioration. At each site, we will discuss conservation approaches, assess the effectiveness of so-far applied measures, and consider possible alternatives, look at synergies and constraints between nature conservation and other land uses in and around wetlands. Last but not least, we will meet people responsible for wetland management and restoration, discussing the social, economic, and political dimensions of conservation and restoration. 
 We warmly invite you to join us on this adventure, contributing to the success of this summer school by sharing your knowledge while discussing specific problems in the beautiful scenery of NE-Polish wetlands.
 
@@ -23,10 +22,11 @@ We will mainly spend time in the field, exploring different aspects of the diver
 The Summer School is organised by the Wetland Conservation Centre (PL). Dr. Łukasz Kozub and Dr. Wiktor Kotowski, as well as guest experts connected to SWS-Europe (see updates on this soon), will lead the course.
 
 **How much does it cost?**\
-The actual fee for participation in the School is still not known as we are waiting for a decision from potential sponsors to cover part of the costs. The maximum cost per person is around 1200 EUR but we hope to substantially lower it based on the submitted grant application. The actual fee will be announced soon, together with the registration announcement.
+Thanks to the financial support of the Climate Fund of the Federal Ministry of Foreign Affairs of the Federal Republic of Germany the participation fee is limited to only **100 euros**.
 
 **How to apply?**\
-We will launch registration soon (in the beginning of March).  You will be asked to provide a brief CV and description of how your work or other activities are related to wetlands, as well as how you intend to use the acquired knowledge. The potential for "multiplication" of the project's effects is an important criterion for its evaluation and will also be important in ranking candidates for the School. In the application, you will also be asked to propose a topic for your speech during the School's final mini-conference. The registration will be opened from April 24th to May 10th. We will select participants by May 20th. 
+Please fill the form available {{< link href="https://docs.google.com/forms/d/e/1FAIpQLSfOXiuWPBTVttfP-J0RNtxs7PU3JMw0a1sa79l8oYVQfrAjQw/viewform?usp=sf_link" >}}HERE{{< /link >}}.\
+The registration will be opened from April 24th to May 10th. We will select participants by May 20th.
 
 **Photos from the 2023 edition of the Wetland Summer School:**
 {{< load-photoswipe >}}

@@ -10,6 +10,4 @@ type: page
 
 **SWS will offer 250 EUR travel grants for four students.**
 
-All **abstracts** should be submitted until **March 15th**.\
-**Abstracts confirmation** will be sent until **May 1st**.\
 For an **Early Bird** price payment should be done until **May 20th**.
