@@ -26,7 +26,7 @@ Thanks to the financial support of the Climate Fund of the Federal Ministry of F
 
 **How to apply?**\
 Please fill the form available {{< link href="https://docs.google.com/forms/d/e/1FAIpQLSfOXiuWPBTVttfP-J0RNtxs7PU3JMw0a1sa79l8oYVQfrAjQw/viewform?usp=sf_link" >}}HERE{{< /link >}}.\
-The registration will be opened until May 20th. We will select participants by May 31st.
+The registration will be open until May 20th. We will select participants by May 31st.
 
 **Photos from the 2023 edition of the Wetland Summer School:**
 {{< load-photoswipe >}}
