@@ -10,6 +10,7 @@ https://www.uantwerpen.be/en/staff/ruurd-vandiggelen/
 {{</ text-image-row >}}
 {{< text-image-row image="/images/speakers/Mariusz Lamentowicz.png">}}**Mariusz Lamentowicz** and his team at the Climate Change Ecology Research Unit (Adam Mickiewicz University, Poznań, Poland) use palaeoecological and experimental approaches to understand the impact of current and past climate changes and anthropogenic disturbances on peatlands. He conducted the research on the data from peatlands in, e.g., Siberia, Mongolia, Central America, Amazon, Switzerland, Falkland Islands, the Czech Republic, Lithuania, Latvia and Estonia. Furthermore, Prof. Lamentowicz is an expert in palaeoecology and the ecology of testate amoebae (Protista). He cooperates with specialists studying the morphology and taxonomy of these organisms. His long-term aim is the implementation of interdisciplinary research on the impact of climate change on peatlands through the integration of monitoring, experiments, and paleoecology. Recently, Prof. Lamentowicz has worked on questions related to peatland restoration and scientific communication with stakeholders. Furthermore, he is involved in climate education, scientific communication and communication with non-scientific audiences through podcasts, movies, lectures and seminars.
 {{</ text-image-row >}}
-
+{{< text-image-row image="/images/speakers/Jane_Madgwick.jpg">}}**Jane Madgwick**, Executive Director of Global Commons Alliance. "Wetlands as vital global commons"
+{{</ text-image-row >}}
 
 Other keynote speakers will be announced soon. 
