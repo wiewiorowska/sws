@@ -22,7 +22,9 @@ We will mainly spend time in the field, exploring different aspects of the diver
 The Summer School is organised by the Wetland Conservation Centre (PL). Dr. Łukasz Kozub and Dr. Wiktor Kotowski, as well as guest experts connected to SWS-Europe (see updates on this soon), will lead the course.
 
 **How much does it cost?**\
-Thanks to the financial support of the Climate Fund of the Federal Ministry of Foreign Affairs of the Federal Republic of Germany the participation fee is limited to only **100 euros**.
+Thanks to the **financial support of the Climate Fund of the Federal Ministry of Foreign Affairs of the Federal Republic of Germany** the participation fee is limited to only **100 euros**.
+
+{{< img width="300" src="/images/embassy.png" >}}
 
 **How to apply?**\
 Please fill the form available {{< link href="https://docs.google.com/forms/d/e/1FAIpQLSfOXiuWPBTVttfP-J0RNtxs7PU3JMw0a1sa79l8oYVQfrAjQw/viewform?usp=sf_link" >}}HERE{{< /link >}}.\
