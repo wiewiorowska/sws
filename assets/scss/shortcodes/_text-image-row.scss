@@ -2,14 +2,14 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    gap: 50px;
+    gap: 20px;
     margin-bottom: 50px;
     background: var(--white);
 
     @media (min-width: 768px) {
         flex-direction: row;
         align-items: center;
-
+        gap: 50px;
         .text {
             flex-basis: 70%;
         }
