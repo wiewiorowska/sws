@@ -8,7 +8,11 @@
 
     @media (min-width: 768px) {
         flex-direction: row;
-        align-items: center;
+        align-items: center:
+
+        .text {
+            flex-basis: 70%;
+        }
     }
 
     img {
