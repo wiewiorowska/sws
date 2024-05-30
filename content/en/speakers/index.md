@@ -3,9 +3,17 @@ title: "Keynote speakers"
 image: '/images/example.jpg'
 type: page
 ---
-{{< text-image-row image="/images/speakers/Jane_Madgwick.jpg">}}**Jane Madgwick** - "Wetlands as vital global commons"
+{{< text-image-row image="/images/speakers/Jane_Madgwick.png">}}**Jane Madgwick** - "Wetlands as vital global commons"
 
-Executive Director of Global Commons Alliance. 
+Jane is an ecologist and author with 30 years of experience of working internationally on
+natural resource management, with a special focus on water and wetlands. She became the
+first Executive Director of the Global Commons Alliance in May 2023. Previously Jane
+worked for Wetlands International, as well as WWF in Europe and Australia. As CEO of
+Wetlands International for almost 20 years, she enabled multi-stakeholder coalitions
+conserve and restore wetland landscapes for biodiversity, human well-being and reduced
+climate risks and to bring the values of wetlands into the global agenda. Jane is committed
+to enable urgent action for an environmentally safe and socially just future.\
+https://www.linkedin.com/in/jane-madgwick-263aba59/
 {{</ text-image-row >}}
 {{< text-image-row image="/images/speakers/Martin_Wassen.jpg">}}**Martin Wassen** - "Thank you Biebrza!”
 
@@ -22,6 +30,3 @@ https://www.uantwerpen.be/en/staff/ruurd-vandiggelen/
 
 A wetland conservationists and wildlife biologist from Belarus. He is a former director of APB-BirdLife Belarus, the country's largest environmental NGO and the leader of the international wilderness conservation programme for APB and the Frankfurt Zoological Society. Viktar was one of the initiators and leaders of several large-scale peatland restoration projects and programmes in Belarus. He was active in establishing effective cooperation between different partners working in wetland conservation and restoration in Belarus and abroad, due to which about every second hectare of restored peatlands in Belarus was restored by or with input from APB. As part of APB and governmental cooperation, he was many times part of Belarus national delegations to UNFCCC and Ramsar Convention meetings and organizer of parallel events promoting peatland restoration and sharing Belarus' experience in rewetting, GHG balance assessment and biodiversity monitoring. Following the 2020 presidential elections in Belarus, Viktar was arrested and sentenced to 2.5 years of imprisonment for participating in peaceful protests. He currently continues to work for the benefit of wetlands in Poland.
 {{</ text-image-row >}}
-
-
-Other keynote speakers will be announced soon. 
