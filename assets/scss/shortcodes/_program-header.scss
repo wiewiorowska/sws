@@ -1,9 +1,9 @@
 .program-header {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     h2 {
         flex-grow: 1;
-        text-align: center;
+        text-align: left;
         margin-block-end: 0;
         padding: 20px;
     }
@@ -14,6 +14,9 @@
     hr {
         margin-top: 0;
         margin-bottom: 0;
+        border: none;
+        height: 2px;
+        background-color: var( --primary-600);
     }
 }
 

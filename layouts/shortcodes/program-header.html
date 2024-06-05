@@ -1,18 +1,12 @@
 
 <div class="card">
-     {{ if .IsNamedParams }}
-     {{ $header := .Get "header" }}
      <div class="program-header">
           <h2>          
-               {{ $header }}
+               {{ .Inner }}
           </h2>
      </div>
      <div class="separator">
           <hr>
-     </div>
-     {{ end }}
-     <div class="card-content">
-          {{ .Inner }}
      </div>
 </div>
 
