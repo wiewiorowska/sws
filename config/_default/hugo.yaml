@@ -46,7 +46,7 @@ menu:
   - name: Conference
     identifier: conference
     weight: 40
-  - name: Programme Overview
+  - name: Programme
     pageRef: /agenda
     weight: 10
     parent: conference

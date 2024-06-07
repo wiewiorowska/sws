@@ -1,5 +1,5 @@
 ---
-title: "Programme overview"
+title: "Programme"
 image: '/images/example.jpg'
 type: page
 ---
