@@ -54,29 +54,33 @@ menu:
     pageRef: /special-sessions
     parent: conference
     weight: 20
+  - name: Field trips
+    pageRef: /field-trips
+    parent: conference
+    weight: 30
   - name: Keynote Speakers
     pageRef: /speakers
-    weight: 30
+    weight: 40
     parent: conference
   - name: Scientific committee
     pageRef: /scientific
-    weight: 40
+    weight: 50
     parent: conference
   - name: Organising committee
     pageRef: /organising
-    weight: 50
+    weight: 60
     parent: conference
   - name: Costs
     pageRef: /costs
-    weight: 60
+    weight: 70
     parent: conference
   - name: Venue
     pageRef: /venue
-    weight: 70
+    weight: 80
     parent: conference
   - name: Accomodation
     pageRef: /accomodation
-    weight: 80
+    weight: 90
     parent: conference
   - name: Biebrza Wetlands
     pageRef: /biebrza
