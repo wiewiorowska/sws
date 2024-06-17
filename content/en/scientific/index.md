@@ -19,6 +19,6 @@ type: page
 
 **Magdalena Suchora**, associate professor, Maria Curie-Skłodowska University, Lublin, PL
 
-**Jos Verhoeven**, profesor emeritus, University of Utrecht, NL
+**Jos Verhoeven**, professor emeritus, University of Utrecht, NL
 
 **Dominik Zak**, professor, Aarhus University, DK
