@@ -15,8 +15,10 @@ type: page
 
 **Piotr Banaszuk**, professor, Białystok University of Technology
 
-**Magdalena Galus**, director, Wetlands Conservation Centre
+**Magdalena Galus**, social engagement coordinator at Wetlands Conservation Centre
 
 **Marlena Tokarska**, financial coordinator, Wetlands Conservation Centre
 
 **Patrycja Romaniuk**, PhD candidate, Institute of Philosophy and Sociology of Polish Academy of Sciences, National School of Water and Environmental Engineering, University of Strasbourg
+
+**Urszula Biereżnoj-Bazille**, Peatland rewetting specialist at Wetlands Conservation Centre, Biebrza National Park

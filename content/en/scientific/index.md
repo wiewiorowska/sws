@@ -17,7 +17,7 @@ type: page
 
 **Matthew Simpson**, President of SWS Europe Chapter, Director of 35 percent, UK
 
-**Magdalena Suchora**, associate professor, Maria Skłodowska Curie University in Lublin, PL
+**Magdalena Suchora**, associate professor, Maria Curie-Skłodowska University, Lublin, PL
 
 **Jos Verhoeven**, profesor emeritus, University of Utrecht, NL
 
