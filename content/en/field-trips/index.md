@@ -8,6 +8,8 @@ type: page
 peat formation**. Groundwater-fed fens, peatland development, passive conservation vs. vegetation
 management)
 
+{{< img width="500" src="/images/field-trips/trip_1_route.png" >}}
+
 **Rospuda Valley fen** is considered the last undrained and well-preserved large fen system in Poland
 and Central-Western Europe. The site harbours significant areas of alkaline fen habitat, and large
 populations of endangered plant species, such as Saxifraga hirsulus or Liparis loeseli. Between 1998
@@ -38,6 +40,8 @@ Rospuda Valley by W. Kotowski
 hydrology and restoration**; groundwater-fed vs. flooded fens and floodplains, wet meadows, effects
 of drainage and rewetting, restoration of hydrological conditions, conservation management for
 aquatic warbler)
+
+{{< img width="500" src="/images/field-trips/trip_2_route.png" >}}
 
 **Lower Biebrza Fens (Ławki Mire)** is the largest nearly undrained preserved valley fen in Poland and
 likely in Central and Western Europe. The mire extends over 13 km from the edge of the valley, where
